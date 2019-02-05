@@ -1,0 +1,15 @@
+.formulario{
+
+  color: black);
+  background-image: url("../imagens/pj.png");
+  background-repeat: no-repeat;
+  background-position: right top;
+  font-size: 12x;
+  border: 5px inset yellow;
+  width: 500px;
+  height: 210px;
+  border-radius:13px;
+  
+
+
+}
